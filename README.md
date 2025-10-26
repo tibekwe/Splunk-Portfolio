@@ -1,0 +1,1 @@
+A documentation of my achievements and learning experience with Splunk. Splunk is a Security Incident and Event Management (SIEM) tool used for searching, monitoring, and analyzing machine-generated data in real time. It’s widely used in cybersecurity, IT operations, and business analytics to transform raw data logs into actionable insights.
